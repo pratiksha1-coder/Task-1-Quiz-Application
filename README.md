@@ -32,4 +32,7 @@ Development Environment:
 VS Code (Visual Studio Code)
 Live Server Extension (For real-time preview)
 
+Output
+![Image](https://github.com/user-attachments/assets/d40b66cb-fcb6-4434-a0bf-1ad0cd5fa738)
+
 
